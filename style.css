@@ -1,0 +1,40 @@
+body{
+    background-color: crimson;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 2px;
+    text-align: left;
+    
+}
+
+img{
+    margin-left: 4cm;
+    display: block;
+}
+div{
+    text-align: center; 
+    text-align: justify;
+    margin-left: 1.5cm;
+}
+.center, ul{
+    text-align: center; 
+    text-align: justify;
+  }
+p{
+    text-align: center; 
+    text-align: justify;
+    margin-left: 2cm;
+}
+h1 {
+    text-align:left;
+    margin-left: 4cm;
+}
+h2{
+    text-align: left;
+    margin-left: 3cm;
+}
+button{
+    margin-top: 1cm;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+}
